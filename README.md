@@ -1,1 +1,1 @@
-# Horiseon-accessability-challenge
+# Horiseon-accessibility-challenge
