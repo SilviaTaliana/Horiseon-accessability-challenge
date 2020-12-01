@@ -31,17 +31,13 @@ One of the links at the top of the page called “search engine optimization” 
 
 The following shows how the header and nav elements are applied. 
 
-```md
-![alt text](assets/images/header-nav-elements.png) 
-```
+![pic](headernavelements.png)
 
 The header goes within the body of the code and is not to be confused with the head element, which is placed outside the body element and contains the title of the page. The nav element is within the header because the links were designed to be at the top of the page and take the user to relevant sections of the article. 
 
 Below is an example of the figure element, comments and alt attribute being applied.
 
-```md
-![alt text](assets/images/figure-comments-alt.png) 
-```
+![pic](figurecommentsalt.png) 
 
 The figure element only wraps around the img tag. It is important to include a comment that describes the type of figure being displayed within the figure element. This is because the figure element can be used for more than just images. It is also used for tables, charts, diagrams or any other type of visual element for a page. The figure element has the option of utilising a figcaption element within it, which is used for putting a description of the picture on the page which is visible to both users who are able to view the page and those who rely on screen readers. It was not utilised in this project as the aim was to maintain the current appearance of the web page. 
 
